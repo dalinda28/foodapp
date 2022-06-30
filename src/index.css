@@ -12,6 +12,11 @@ body {
 html, body{
     scroll-behavior: smooth;
 }
+#root{
+    background: radial-gradient(58.1% 93.33% at 45.56% 103.59%, #FFDAEB 0%, rgba(255, 255, 255, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(41.45% 71.33% at 75.24% 23.72%, #EAF2FF 0%, rgba(234, 242, 255, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(26.51% 53.55% at 3.23% 28.56%, #FFD8C0 0%, rgba(255, 234, 239, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, #FFFFFF;
+
+}
+
 
 @tailwind base;
 @tailwind components;

@@ -1,1 +1,7 @@
 export { default as Header } from "./Header"
+export { default as Footer } from "./Footer"
+export { default as HomeContainer } from "./HomeContainer"
+export { default as MenuContainer } from "./MenuContainer"
+export { default as ServiceContainer } from "./ServiceContainer"
+export { default as ProposContainer } from "./ProposContainer"
+export { default as ContactContainer } from "./ContactContainer"
