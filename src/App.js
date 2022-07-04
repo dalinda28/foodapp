@@ -1,5 +1,4 @@
 import React from 'react';
-import { Route, Routes } from 'react-router-dom';
 import { Header, Footer, HomeContainer, ServiceContainer, ContactContainer, ProposContainer, MenuContainer } from './components';
 
 const App = () => {
